@@ -7,3 +7,4 @@
 * Низкая цена
 * я учусь в нетологии
 * 05/09/2024
+* https://github.com/Zalina87/NeuroStartUp
